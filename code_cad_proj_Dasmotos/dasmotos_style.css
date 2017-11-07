@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+h1, h2, h3, p {
+	font-family:  Helvetica;
+}
+
+h1 { 
+background-color: yellow;
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;}
+.brushes{ 
+	color: white;
+	font-size: 32px;
+	background-color: mediumseagreen; 
+}
+.frames{ color: white;
+	font-size: 32px;
+	background-color: lightcoral;
+}
+.paint{ color: white;
+	font-size: 32px;
+	background-color: skyblue; 
+}
+.price{ 
+color: blue; 
+font-weight: bold;}
